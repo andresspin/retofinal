@@ -1,0 +1,53 @@
+body{
+    background: #262529;
+}
+
+.slider{
+    position:absolute;
+    width: 430.15px;
+    height: 342.59px;
+    left: 444.93px;
+    top: 191.36px;
+    background-color: #333139;
+    border-radius: 20px;
+}
+
+.range{
+    position: absolute;
+    width: 397.56px;
+    height: 79.72px;
+    left: 23.35px;
+    top: 130.14px;
+    text-align: center;
+    color: #FFC700;
+    border-radius: 8px;
+}
+
+
+#buy{
+    background-color: #333139;
+    border-radius: 100px;
+    border-color: #262529;
+    width: 166.36px;
+    height: 57.21px;
+    top: 225px;
+    left: 130px;
+    position: absolute;
+    color: white;
+    
+    
+}
+
+#rangeValue{
+    background-color: #333139 ;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 70px;
+    top: 30px;
+    left: 170px;
+    color: #FFC700;
+    font-size:xx-large;
+}
